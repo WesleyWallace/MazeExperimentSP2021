@@ -1,5 +1,5 @@
 # The Maze Experiment - Multiple Resources and Frames of Reference
-by Jacob Augustine, Tyler Dansby, and Nick Kaliher
+by Jacob Augustine, Tyler Dansby, and Nick Kaliher,
 
 ### Project Description
 
